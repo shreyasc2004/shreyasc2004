@@ -1,35 +1,116 @@
-<h1 align="center">Hi 👋, I'm Shreyas C G</h1>
-<h3 align="center">A motivated Junior at RV University</h3>
+# 👋 Hi, I'm Shreyas C
 
+🎓 **B.Tech Computer Science Engineering @ RV University (CGPA: 8.2)**  
+📍 Bengaluru, India  
+🧠 AI • Web Development • Product-Oriented Engineering  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likith-sg" alt="likith-sg" /></a> </p>
+I’m a **Computer Science undergraduate** who enjoys building **real-world, user-focused products** at the intersection of **AI, web development, and system design**.  
+I care deeply about **clean UX**, **scalable architecture**, and **turning ideas into working products**, not just demos.
 
-- 🔭 I’m currently working on [Imugi](https://github.com/likith-sg/Imugi) 
+---
 
-- 🌱 I’m currently learning **Google Cloud Platform**
-
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://likith-sg-portfolio.vercel.app/)
-
-- 📫 How to reach me **likithsg1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/likith-sg-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likith-sg-profile" height="30" width="40" /></a>
-<a href="https://instagram.com/likith_sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="likith_sg" height="30" width="40" /></a>
-<a href="https://coddy.tech/user/e2Yj9dJrFRhFkWRfgIDkqNNfvHe2" target="blank"><img align="center" src="https://coddy.tech/icons/logo.svg" alt="coddy" height="30" width="40" /></a>
-<a href="https://likith-sg-portfolio.vercel.app/" target="blank"><img align="center" src="https://tumo.org/wp-content/uploads/2017/06/portfolio-text-5.png" alt="portfolio" height="30" width="120" /></a>
-</p>
-<p align="left">
-  <strong>Check out my repositories on GitHub!</strong> All of my projects are open source. Feel free to explore and contribute.
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🔗 Connect With Me
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likith-sg&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://linkedin.com/in/Shreyas-C2004" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/shreyasc2004" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
+  </a>
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=likith-sg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+📧 **Email:** shre9878@gmail.com  
+
+---
+
+## 💼 Experience
+
+### **Software Development Intern** — *Zodopt Technology Solutions Pvt. Ltd.*  
+🗓️ Jun 2025 – Jul 2025 (Remote)
+
+- Built **interactive React.js components** for an AI-powered *Sales Buddy* chatbot.
+- Designed a **mobile-first, responsive UI** using **Tailwind CSS**, tested across 5+ screen sizes and 3 major browsers.
+- Collaborated closely with **developers & product managers** to ensure design feasibility and smooth handoffs.
+- Helped structure **scalable conversational flows** for an AI assistant used in real-world workflows.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 **Brain Tumor Detection using CNN**
+**Tech:** TensorFlow, Keras, NumPy, Pandas  
+
+- Designed and trained a **CNN model** to classify multiple brain tumor types from MRI images.
+- Built a complete **data pipeline** (loading, preprocessing, visualization).
+- Applied **data augmentation** to improve generalization and reduce overfitting.
+- Achieved **92.9% test accuracy**, evaluated using confusion matrix and class-wise metrics.
+- Visualized **accuracy & loss trends** to monitor training performance.
+
+---
+
+### ✋ **Gesture-Controlled Flappy Bird (Deep Learning)**
+**Tech:** Python, OpenCV, MediaPipe, Pygame, TensorFlow  
+
+- Developed a **real-time gesture-controlled game** using webcam input.
+- Collected and processed **3D hand landmark data** for custom gesture recognition.
+- Trained an **MLP classifier** to recognize gestures with high accuracy.
+- Integrated live predictions to control game mechanics (flap, dive, fall).
+- Built a complete **end-to-end ML pipeline** (data → model → real-time inference).
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,sql" />
 </p>
+
+### **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="40"/>
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+### **CI/CD & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,postgres,sqlite" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **NPTEL (SWAYAM)** — *Design & Implementation of Human-Computer Interfaces*  
+  **Elite + Silver | Score: 88/100**
+
+---
+
+## ✨ What Makes Me Different?
+
+- 🚀 I focus on **product-thinking**, not just code.
+- 🧠 Strong interest in **AI systems that actually ship**.
+- 🎯 Comfortable working across **frontend, ML, and tooling**.
+- 📦 I value **clean UX, scalable design, and real users**.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyasc2004&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasc2004&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+> *“Build things people can actually use — then make them better.”*
