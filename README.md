@@ -39,25 +39,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasc2004&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasc2004&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasc2004&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shreyasc2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shreyasc2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
