@@ -1,116 +1,59 @@
-# 👋 Hi, I'm Shreyas C
-
-🎓 **B.Tech Computer Science Engineering @ RV University (CGPA: 8.2)**  
-📍 Bengaluru, India  
-🧠 AI • Web Development • Product-Oriented Engineering  
-
-I’m a **Computer Science undergraduate** who enjoys building **real-world, user-focused products** at the intersection of **AI, web development, and system design**.  
-I care deeply about **clean UX**, **scalable architecture**, and **turning ideas into working products**, not just demos.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shreyas-C2004)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shre9878@gmail.com)
 
 ---
 
-## 🔗 Connect With Me
+# 💻 Tech Stack:
 
-<p align="left">
-  <a href="https://linkedin.com/in/Shreyas-C2004" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://github.com/shreyasc2004" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
-  </a>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-📧 **Email:** shre9878@gmail.com  
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Backend & Databases
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 💼 Experience
+### ML / AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### **Software Development Intern** — *Zodopt Technology Solutions Pvt. Ltd.*  
-🗓️ Jun 2025 – Jul 2025 (Remote)
-
-- Built **interactive React.js components** for an AI-powered *Sales Buddy* chatbot.
-- Designed a **mobile-first, responsive UI** using **Tailwind CSS**, tested across 5+ screen sizes and 3 major browsers.
-- Collaborated closely with **developers & product managers** to ensure design feasibility and smooth handoffs.
-- Helped structure **scalable conversational flows** for an AI assistant used in real-world workflows.
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 **Brain Tumor Detection using CNN**
-**Tech:** TensorFlow, Keras, NumPy, Pandas  
-
-- Designed and trained a **CNN model** to classify multiple brain tumor types from MRI images.
-- Built a complete **data pipeline** (loading, preprocessing, visualization).
-- Applied **data augmentation** to improve generalization and reduce overfitting.
-- Achieved **92.9% test accuracy**, evaluated using confusion matrix and class-wise metrics.
-- Visualized **accuracy & loss trends** to monitor training performance.
+### Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### ✋ **Gesture-Controlled Flappy Bird (Deep Learning)**
-**Tech:** Python, OpenCV, MediaPipe, Pygame, TensorFlow  
-
-- Developed a **real-time gesture-controlled game** using webcam input.
-- Collected and processed **3D hand landmark data** for custom gesture recognition.
-- Trained an **MLP classifier** to recognize gestures with high accuracy.
-- Integrated live predictions to control game mechanics (flap, dive, fall).
-- Built a complete **end-to-end ML pipeline** (data → model → real-time inference).
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shreyasc2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shreyasc2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasc2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,sql" />
-</p>
-
-### **Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="40"/>
-</p>
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-### **CI/CD & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,postgres,sqlite" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shreyasc2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 🏆 Achievements
-
-- 🥈 **NPTEL (SWAYAM)** — *Design & Implementation of Human-Computer Interfaces*  
-  **Elite + Silver | Score: 88/100**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shreyasc2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## ✨ What Makes Me Different?
-
-- 🚀 I focus on **product-thinking**, not just code.
-- 🧠 Strong interest in **AI systems that actually ship**.
-- 🎯 Comfortable working across **frontend, ML, and tooling**.
-- 📦 I value **clean UX, scalable design, and real users**.
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasc2004&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasc2004&theme=tokyonight" height="165"/>
-</p>
-
----
-
-> *“Build things people can actually use — then make them better.”*
+[![](https://visitcount.itsvg.in/api?id=shreyasc2004&icon=10&color=13)](https://visitcount.itsvg.in)
